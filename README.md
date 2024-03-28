@@ -2,7 +2,7 @@
 
 <!--
 
-## Hi there! <img src="https://raw.githubusercontent.com/drshahizan/drshahizan/master/img/wave.gif" width="30">
+## Hi there! <img src="https://raw.githubusercontent.com/SarafaAdeyemo/SarafaAdeyemo/master/img/wave.gif" width="30">
 
 I am  __SarafaAdeyemo__, and I work as a lecturer at [FCET Gusau](https://www.fcetgusau.edu.ng).
 
