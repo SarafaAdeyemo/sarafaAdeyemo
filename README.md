@@ -24,7 +24,6 @@ Here are some of the projects that I have worked on or contributed to:
 
 ### Beep 🔋
 
-Beep is a simple Python GUI application that helps a user limit the number of charge-cycles they use, thereby increasing the lifespan of the laptop battery. The theory behind this is that a laptop battery has a number of predefined charge-cycles, and every time we charge a battery to 100%, we lose one cycle. For this reason, manufacturers recommend that you shouldn't charge your battery to 100% all the time. The charge percentage is, however, hard to keep track of; therefore, Beep notifies you when your battery reaches a certain threshold (80%).
 
 [Check out Beep on GitHub](https://github.com/OSCA-Kampala-Chapter/Beep)
 
