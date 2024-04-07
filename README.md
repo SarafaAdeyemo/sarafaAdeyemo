@@ -1,6 +1,6 @@
 
-<div align="center"><img src="https://github.com/sarafaAdeyemo/C:\Users\User\Desktop\My PhD/profile pic.jpg" width="300" /></div>
-<h1 align="center">Sarafa Adeyemo 👨‍💻</h1>
+<div align="center"><img src="https://avatars.githubusercontent.com/u/160567549?v=4" width="300" /></div>
+<h1 align="center">SarafaAdeyemo 👨‍💻</h1>
 
 ## About Me 🚀
 <div align="center"><img src="https://github.com/sarafaAdeyemo/BDM/assets/51344005/ffaa458f-d247-48f9-86f6-c4f88ebefaa5" width="600" /></div>
