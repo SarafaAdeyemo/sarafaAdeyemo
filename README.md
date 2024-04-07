@@ -1,10 +1,7 @@
-![profile pic](https://github.com/SarafaAdeyemo/sarafaAdeyemo/assets/162001845/1e213917-f5a4-4b34-a75d-fb93265e2842).
 
-
-
-<div align="center"> ![profile pic](https://github.com/SarafaAdeyemo/sarafaAdeyemo/assets/162001845/e3114d15-3dc2-4ff1-8e71-b0ffa129d27e)
+<div align="center"> <img src="https://github.com/SarafaAdeyemo/sarafaAdeyemo/assets/162001845/31056995-ae60-465c-9007-60cce4124d8c"
 width="300" /></div>
-<h1 align="center">SarafaAdeyemo 
+<h1 align="center">Sarafa Adeyemo 
   👨‍💻</h1>
 
 ## About Me 🚀
