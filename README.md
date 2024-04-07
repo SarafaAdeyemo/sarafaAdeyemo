@@ -44,6 +44,6 @@ I regularly write articles on my blog about various topics related to software e
 If you want to get in touch with me, you can reach me through any of the following channels:
 
 - Email: soadeyemo13@gmail.com ✉️
-- LinkedIn: [Sarafa Adeyemo](https://www.linkedin.com/in/Sarafa Adeyemo/) 💼
+- LinkedIn: [Sarafa Adeyemo](https://www.linkedin.com/in/SarafaAdeyemo/) 💼
 - GitHub: [sarafaAdeyemo](https://github.com/sarafaAdeyemo) 🐱
 
