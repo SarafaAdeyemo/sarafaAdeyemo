@@ -1,6 +1,11 @@
+![profile pic](https://github.com/SarafaAdeyemo/sarafaAdeyemo/assets/162001845/1e213917-f5a4-4b34-a75d-fb93265e2842).
 
-<div align="center"><img src="https://avatars.githubusercontent.com/u/160567549?v=4" width="300" /></div>
-<h1 align="center">SarafaAdeyemo 👨‍💻</h1>
+
+
+<div align="center"> ![profile pic](https://github.com/SarafaAdeyemo/sarafaAdeyemo/assets/162001845/e3114d15-3dc2-4ff1-8e71-b0ffa129d27e)
+width="300" /></div>
+<h1 align="center">SarafaAdeyemo 
+  👨‍💻</h1>
 
 ## About Me 🚀
 <div align="center"><img src="https://github.com/sarafaAdeyemo/BDM/assets/51344005/ffaa458f-d247-48f9-86f6-c4f88ebefaa5" width="600" /></div>
