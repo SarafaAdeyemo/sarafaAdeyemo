@@ -8,7 +8,7 @@ width="300" /></div>
 ## About Me 🚀
 <div align="center"><img src="https://github.com/sarafaAdeyemo/BDM/assets/51344005/ffaa458f-d247-48f9-86f6-c4f88ebefaa5" width="600" /></div>
 
-Hi, I'm Sarafa Adeyemo, a passionate Computer science Academia from Nigeria. I love learning about new technologies and creating innovative solutions for real-world problems. I have experience in software development, system administration. Currently pursuing a PhD in Computer Science at Universiti Teknologi Malaysia. In my free time, I enjoy reading and playing indoor game.
+Hi, I'm Sarafa Adeyemo, a passionate Computer science Academia from Nigeria. I love learning about new technologies and creating innovative solutions for real-world problems. I have experience in Software development, system administration. Currently pursuing a PhD in Computer Science at Universiti Teknologi Malaysia. In my free time, I enjoy reading and playing indoor game.
 
 ## Skills 🛠️
 
@@ -24,7 +24,7 @@ Hi, I'm Sarafa Adeyemo, a passionate Computer science Academia from Nigeria. I l
 ## Education and Training 🎓
 
 - Master of Science in Computer Science at University of Wolverhampton United Kingdom (2013 - 2014)
-- Presently undergoing my PhD study in Artificial intelligence at Universiti Teknologi Malaysia (UTM)
+- Presently undergoing my PhD study in Computer Science (Artificial intelligence) at Universiti Teknologi Malaysia (UTM)
 
 ## Contact Me 📫
 
