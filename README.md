@@ -16,6 +16,11 @@ Hi, I'm Sarafa Adeyemo, a passionate Computer science Academia from Nigeria. I l
 - Computer Application packages
 - Database Management System
 - System analysis and design
+- Computer Science Educator and Researcher
+
+## Research Area
+- Artificial Intelligence (AI) in Education
+- Information and Communication Technology (ICT) in Education
 
 ## Work Experience 💼
 
