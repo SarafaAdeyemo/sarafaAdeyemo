@@ -8,24 +8,14 @@ width="300" /></div>
 ## About Me 🚀
 <div align="center"><img src="https://github.com/sarafaAdeyemo/BDM/assets/51344005/ffaa458f-d247-48f9-86f6-c4f88ebefaa5" width="600" /></div>
 
-Hi, I'm Sarafa Adeyemo, a passionate Computer science Academia from Nigeria. I love learning about new technologies and creating innovative solutions for real-world problems. I have experience in software development, system administration. Currently pursuing a PhD in Computer Science at Universiti Teknologi Malaysia. In my free time, I enjoy writing articles on my blog, sharing my knowledge with others, and also exploring and contributing to open-source projects.
+Hi, I'm Sarafa Adeyemo, a passionate Computer science Academia from Nigeria. I love learning about new technologies and creating innovative solutions for real-world problems. I have experience in software development, system administration. Currently pursuing a PhD in Computer Science at Universiti Teknologi Malaysia. In my free time, I enjoy reading and playing indoor game.
 
 ## Skills 🛠️
 
-- Programming languages: Python, JavaScript, PHP, C, Rust (Learning)
-- Web frameworks: React, Astro, Frappe
-- Blockchain platforms: Bitcoin
-- Cloud services: Oracle Cloud
-- Other tools: Git, Docker, LXD
-
-## Projects <img src="https://github.com/sarafaAdeyemo/BDM/assets/51344005/9bfd8fba-9b7b-4f06-8b4e-0a44313e5baa" width="30" />
-
-Here are some of the projects that I have worked on or contributed to:
-
-### Beep 🔋
-
-
-[Check out Beep on GitHub](https://github.com/OSCA-Kampala-Chapter/Beep)
+- Programming languages: JavaScript, PHP, C, Still learning Python
+- Computer Application packages
+- Database Management System
+- System analysis and design
 
 ## Work Experience 💼
 
@@ -35,11 +25,6 @@ Here are some of the projects that I have worked on or contributed to:
 
 - Master of Science in Computer Science at University of Wolverhampton United Kingdom (2013 - 2014)
 - Presently undergoing my PhD study in Artificial intelligence at Universiti Teknologi Malaysia (UTM)
-## Blog 📝
-
-I regularly write articles on my blog about various topics related to software engineering, blockchain, and more. Here are some of my recent posts:
-
-- [Accessing SSH When Port 22 is Blocked: Solutions and Recommendations](https://blog.bakungabronson.com/ssh-unblock)
 
 ## Contact Me 📫
 
