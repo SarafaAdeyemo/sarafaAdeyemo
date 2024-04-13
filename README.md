@@ -8,7 +8,9 @@ width="300" /></div>
 ## About Me 🚀
 <div align="center"><img src="https://github.com/sarafaAdeyemo/BDM/assets/51344005/ffaa458f-d247-48f9-86f6-c4f88ebefaa5" width="600" /></div>
 
-Hi, I'm Sarafa Olasunkanmi Adeyemo, a passionate Computer science Academia from Nigeria. I love learning about new technologies and creating innovative solutions for real-world problems. I have experience in Software development, Database Management System, System analyst. Currently pursuing a PhD in Computing (AI) at Universiti Teknologi Malaysia. In my free time, I enjoy reading and playing indoor game.
+Hi, I'm Sarafa Olasunkanmi Adeyemo, a passionate Computer science Academia from Nigeria. I love learning about new technologies and sharing knowledge, where i can help others develop their skills and underatanding of new technology. I have experience in Software development, Database Management System, System analyst. 
+
+Currently pursuing a PhD in Computing in the area of ##Artificial Intelligence at Universiti Teknologi Malaysia. In my free time, I enjoy reading and playing indoor game.
 
 ## Skills 🛠️
 
@@ -27,6 +29,9 @@ Hi, I'm Sarafa Olasunkanmi Adeyemo, a passionate Computer science Academia from 
 
 - I have worked in the academic environment over the last couple of years, starting in 2005 where I took a role at Federal College of Education (Technical) Gusau, Nigeria, as an Instructor in computer Science Department. I then worked as a Lecturer and a resesrcher in the same Institution.
 
+## Achievement
+
+- 
 ## Publications 📘
 
   I have written and published several articles on Information and communication technology and computer science education. Here are some of my publications:
