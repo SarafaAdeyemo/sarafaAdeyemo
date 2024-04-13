@@ -37,7 +37,7 @@ Hi, I'm Sarafa Olasunkanmi Adeyemo, a passionate Computer science Academia from 
 - Adeyemo Sarafa O. and Olowonisi Victor, O. (2016). Comparative Analysis and Evaluation of Software Development Methods use in Management Information System Design. West African Journal of Science and Educational Research (WAJOSER), Federal College of Education (Technical) Gusau, Vol. 3 No. 1, p136-148. ISSN 978-065-9725-7.
 - Tafa, T. O., Adeyemo S.O. and Abubakar, D.  (2014). Design of a Computerized home automation system using Arduino, Zigbee and Mobile Web Application. West African Journal of Science and Educational Research (WAJOSER), Fedreral College of Education (Technical) Gusau, Vol. 2 No. 1, p67-77. ISSN 978-065-9725-7. 
 
-  I have also attended and presented papers at several academics conferences/workshops, among which are:
+I have also attended and presented papers at several academics conferences/workshops, among which are:
   
 - Adeyemo Sarafa O. and Bashir Idris (2023). Exploring the Potential of Information and Communication Technology for Effective Teacher Education in Nigeria. A Paper Presented at the 10th Annual National Conference of Colleges ff Education Academic Staff Union (North West Zone) Federal College of Education Zaria, Kaduna State. 26th to 28th September, 2023.
 - Adeyemo Sarafa O., Victor O. Olowonisi, Abubakar Barikisu Omeneke and Isah Khadijat Ozavisa (2023). Information and Communication Technology Driven Education: A Viable Tools for Achieving Basic Education Curriculum Implementation. A Paper Presented at the 1st National Conference of School of Early Childhood-Care, Primary, Adult and Non-Formal Education Federal College of Education (Technical) Gusau, Zamfara State. 23rd to 25th May, 2023.
