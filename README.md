@@ -1,4 +1,4 @@
-
+## Hi there 👋
 
 <div align="center"> <img src="https://github.com/SarafaAdeyemo/sarafaAdeyemo/assets/162001845/31056995-ae60-465c-9007-60cce4124d8c"
 width="300" /></div>
@@ -6,9 +6,7 @@ width="300" /></div>
   👨‍💻</h1>
 
 ## About Me 🚀
-<div align="center"><img src="https://github.com/sarafaAdeyemo/BDM/assets/51344005/ffaa458f-d247-48f9-86f6-c4f88ebefaa5" width="600" /></div>
 
-## Hi there 👋
 I'm **Sarafa Olasunkanmi Adeyemo**, a passionate Computer science Academia from Nigeria. I love learning about new technologies and sharing knowledge, where i can help others develop their skills and underatanding of new technology. I have experience in Software development, Database Management System, System analyst. 
 
 Currently pursuing a PhD in Computing in the area of **Artificial Intelligence**, at Universiti Teknologi Malaysia. In my free time, I enjoy reading and playing Indoor game.
@@ -24,13 +22,13 @@ Currently pursuing a PhD in Computing in the area of **Artificial Intelligence**
 ## Research Area 👨‍💻
 
 - Artificial Intelligence (AI) in Education
-- IoT in Education
+- Internet of Things (IoT) in Education
 
 ## Work Experience 💼
 
 - I have worked in the academic environment over the last couple of years, starting in 2005 where I took a role at Federal College of Education (Technical) Gusau, Nigeria, as an Instructor in computer Science Department. I then worked as a Lecturer and a resesrcher in the same Institution.
 
-## Achievement/Responsibility
+## Achievement/Responsibility 🏆
 
 -	Member ICT Development Committee, Federal College of Education (Technical) Gusau. February 2022 to Date.
 -	Degree Programme Coordinator, Computer Science Education Programme, Federal College of Education (Technical) Gusau. November 2019 to Date.
@@ -40,7 +38,7 @@ Currently pursuing a PhD in Computing in the area of **Artificial Intelligence**
 -	Examination Officer, Department of Computer Science, Federal College of Education (Technical) Gusau. Nov. 2007 To 2012
 
 
-## Professional body membership
+## Professional body membership 🎓
 
 - Nigeria Computer Society(NCS)
 -	Teachers Registration Council Of Nigeria (TRCN)
