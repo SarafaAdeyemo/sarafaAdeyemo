@@ -8,7 +8,7 @@ width="300" /></div>
 ## About Me 🚀
 <div align="center"><img src="https://github.com/sarafaAdeyemo/BDM/assets/51344005/ffaa458f-d247-48f9-86f6-c4f88ebefaa5" width="600" /></div>
 
-Hi, I'm Sarafa Olasunkanmi Adeyemo, a passionate Computer science Academia from Nigeria. I love learning about new technologies and creating innovative solutions for real-world problems. I have experience in Software development, system administration. Currently pursuing a PhD in Computer Science at Universiti Teknologi Malaysia. In my free time, I enjoy reading and playing indoor game.
+Hi, I'm Sarafa Olasunkanmi Adeyemo, a passionate Computer science Academia from Nigeria. I love learning about new technologies and creating innovative solutions for real-world problems. I have experience in Software development, Database Management System, System analyst. Currently pursuing a PhD in Computing (AI) at Universiti Teknologi Malaysia. In my free time, I enjoy reading and playing indoor game.
 
 ## Skills 🛠️
 
@@ -21,7 +21,7 @@ Hi, I'm Sarafa Olasunkanmi Adeyemo, a passionate Computer science Academia from 
 ## Research Area 👨‍💻
 
 - Artificial Intelligence (AI) in Education
-- Information and Communication Technology (ICT) in Education
+- IoT in Education
 
 ## Work Experience 💼
 
@@ -37,10 +37,19 @@ Hi, I'm Sarafa Olasunkanmi Adeyemo, a passionate Computer science Academia from 
 - Adeyemo Sarafa O. and Olowonisi Victor, O. (2016). Comparative Analysis and Evaluation of Software Development Methods use in Management Information System Design. West African Journal of Science and Educational Research (WAJOSER), Federal College of Education (Technical) Gusau, Vol. 3 No. 1, p136-148. ISSN 978-065-9725-7.
 - Tafa, T. O., Adeyemo S.O. and Abubakar, D.  (2014). Design of a Computerized home automation system using Arduino, Zigbee and Mobile Web Application. West African Journal of Science and Educational Research (WAJOSER), Fedreral College of Education (Technical) Gusau, Vol. 2 No. 1, p67-77. ISSN 978-065-9725-7. 
 
+  I have also attended and presented papers at several academics conferences/workshops, among which are:
+  
+- Adeyemo Sarafa O. and Bashir Idris (2023). Exploring the Potential of Information and Communication Technology for Effective Teacher Education in Nigeria. A Paper Presented at the 10th Annual National Conference of Colleges ff Education Academic Staff Union (North West Zone) Federal College of Education Zaria, Kaduna State. 26th to 28th September, 2023.
+- Adeyemo Sarafa O., Victor O. Olowonisi, Abubakar Barikisu Omeneke and Isah Khadijat Ozavisa (2023). Information and Communication Technology Driven Education: A Viable Tools for Achieving Basic Education Curriculum Implementation. A Paper Presented at the 1st National Conference of School of Early Childhood-Care, Primary, Adult and Non-Formal Education Federal College of Education (Technical) Gusau, Zamfara State. 23rd to 25th May, 2023.
+-	Adeyemo Sarafa O., Mohammed Mistura O. and Ajibola F. Olushola (2022). Achieving Effective Teaching and Learning Amidst Security and Covid-19 Challenges: The Role of Social and Digital Media. A Paper Presented at the 7th Annual National Conference of School of Secondary Education (Art and Social Science) Federal College of Education, Kastina, Kastina State. 1th to 4th March, 2022.
+-	Olowonisi Victor O., Okojie Luke I, S. Rafi Aliyu and Adeyemo Sarafa O. (2021). Advocacy for the Deployment of 21st Century Technologies in the Modern Educational Workplace in Nigeria Tertiary Instittutions. A Paper Presented at the 10th National Conference and Workshop of School of Secondary Education (Science), Federal College of Education (Technical) Gusau, Zamfara State. 6th to 9th September, 2021.
+-	Tafa, Taofik O. and Adeyemo, Sarafa O. (2021). Information and Communication Technology: Effective Tool in Tackling Challenges of Insecurity for National Development. A Paper Presented at the 2021 International Conference of Faculty of Science, Kaduna State University. 5th to 7th July 2021.
 
 ## Education and Training 🎓
 
+- Higher National Diploma in Computer Science at Federal Polytechnic Offa, Kwara State Nigeria (2001 - 2003)
 - Master of Science in Computer Science at University of Wolverhampton United Kingdom (2013 - 2014)
+- Technical Teacher Certificate (TTC) at Federal College of Education (Technical) Gusau, Zamfara State Nigeria (2007 - 2008)
 - Presently undergoing my PhD study in Computer Science (Artificial intelligence) at Universiti Teknologi Malaysia (UTM)
 
 ## Contact Me 📫
