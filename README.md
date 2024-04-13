@@ -45,7 +45,7 @@ Currently pursuing a PhD in Computing in the area of **Artificial Intelligence**
 -	National Association for the Advancement of Knowledge (NAFAK)
 - National Association for Research Development (NARD)
 
-## Publications 📘
+## Publications/Conferences 📘
 
   I have written and published several articles on Information and communication technology and computer science education. Here are some of my publications:
   
