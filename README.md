@@ -48,9 +48,9 @@ I have also attended and presented papers at several academics conferences/works
 ## Education and Training 🎓
 
 - Higher National Diploma in Computer Science at Federal Polytechnic Offa, Kwara State Nigeria (2001 - 2003)
-- Master of Science in Computer Science at University of Wolverhampton United Kingdom (2013 - 2014)
 - Technical Teacher Certificate (TTC) at Federal College of Education (Technical) Gusau, Zamfara State Nigeria (2007 - 2008)
-- Presently undergoing my PhD study in Computer Science (Artificial intelligence) at Universiti Teknologi Malaysia (UTM)
+- Master of Science in Computer Science at University of Wolverhampton United Kingdom (2013 - 2014)
+- Presently undergoing my PhD study in Computing (Artificial intelligence) at Universiti Teknologi Malaysia (UTM)
 
 ## Contact Me 📫
 
